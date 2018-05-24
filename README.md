@@ -1,4 +1,4 @@
-#SDC - Path planning writeup
+# SDC - Path planning writeup
 
 Henry Yau
 This project is part of the path planning module for Udacity's Self Driving Car nanodegree
